@@ -1,0 +1,15 @@
+.style-1::-webkit-scrollbar-track {
+  border-radius: 8px;
+  background-color: rgba(24, 144, 255, 0.15);
+}
+
+.style-1::-webkit-scrollbar {
+  border-radius: 8px;
+  width: 8px;
+  background-color: rgba(24, 144, 255, 0.15);
+}
+
+.style-1::-webkit-scrollbar-thumb {
+  border-radius: 8px;
+  background-color: rgba(24, 144, 255, 0.5);
+}
